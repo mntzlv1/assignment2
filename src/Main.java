@@ -16,6 +16,5 @@ public class Main {
         people.add(new Employee("Belka" , "Strelka", "Austronaut", 1000000));
         Collections.sort(people);
         printData(people);
-
     }
 }
